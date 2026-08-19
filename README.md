@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/devang-dk/DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/devang-dk/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/devang-dk/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/devang-dk/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devang-dk/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/devang-dk/DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devang-dk/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/devang-dk/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devang-dk/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/devang-dk/DSA/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/devang-dk/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/devang-dk/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/devang-dk/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/devang-dk/DSA/tree/master/0283-move-zeroes) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/devang-dk/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/devang-dk/DSA/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/devang-dk/DSA/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/devang-dk/DSA/tree/master/0088-merge-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/devang-dk/DSA/tree/master/1200-minimum-absolute-difference) |
 ## Bit Manipulation
 |  |
