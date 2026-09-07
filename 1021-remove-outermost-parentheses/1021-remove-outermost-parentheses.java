@@ -3,7 +3,7 @@ class Solution {
         int balance=0;
         int left=0;
         int right=0;
-        String ans = new String();
+        StringBuilder ans = new StringBuilder();
         while(right<s.length()){
             if(s.charAt(right)=='('){
                 balance++;
@@ -12,11 +12,11 @@ class Solution {
             }
 
             if(balance==0){
-                ans+=s.substring(left+1,right);
+                ans.append(s,left+1,right);
                 left=right+1;
             }
             right++;
         }
-        return ans;
+        return ans.toString();
     }
 }
