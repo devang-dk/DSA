@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/devang-dk/DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devang-dk/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/devang-dk/DSA/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/devang-dk/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/devang-dk/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/devang-dk/DSA/tree/master/0485-max-consecutive-ones) |
 | [1200-minimum-absolute-difference](https://github.com/devang-dk/DSA/tree/master/1200-minimum-absolute-difference) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/devang-dk/DSA/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/devang-dk/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/devang-dk/DSA/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/devang-dk/DSA/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/devang-dk/DSA/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/devang-dk/DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/devang-dk/DSA/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/devang-dk/DSA/tree/master/0217-contains-duplicate) |
 | [1200-minimum-absolute-difference](https://github.com/devang-dk/DSA/tree/master/1200-minimum-absolute-difference) |
 ## Bit Manipulation
 |  |
