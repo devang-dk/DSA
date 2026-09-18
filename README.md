@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/devang-dk/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/devang-dk/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/devang-dk/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/devang-dk/DSA/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/devang-dk/DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/devang-dk/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/devang-dk/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/devang-dk/DSA/tree/master/0242-valid-anagram) |
 | [1200-minimum-absolute-difference](https://github.com/devang-dk/DSA/tree/master/1200-minimum-absolute-difference) |
 ## Bit Manipulation
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/devang-dk/DSA/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/devang-dk/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/devang-dk/DSA/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/devang-dk/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/devang-dk/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/devang-dk/DSA/tree/master/1903-largest-odd-number-in-string) |
