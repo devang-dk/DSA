@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/devang-dk/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devang-dk/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/devang-dk/DSA/tree/master/0031-next-permutation) |
+| [0041-first-missing-positive](https://github.com/devang-dk/DSA/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/devang-dk/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/devang-dk/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/devang-dk/DSA/tree/master/0054-spiral-matrix) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/devang-dk/DSA/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/devang-dk/DSA/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/devang-dk/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/devang-dk/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/devang-dk/DSA/tree/master/0217-contains-duplicate) |
