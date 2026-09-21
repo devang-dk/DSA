@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devang-dk/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/devang-dk/DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devang-dk/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0164-maximum-gap](https://github.com/devang-dk/DSA/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/devang-dk/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/devang-dk/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/devang-dk/DSA/tree/master/0283-move-zeroes) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/devang-dk/DSA/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/devang-dk/DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/devang-dk/DSA/tree/master/0088-merge-sorted-array) |
+| [0164-maximum-gap](https://github.com/devang-dk/DSA/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/devang-dk/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/devang-dk/DSA/tree/master/0242-valid-anagram) |
 | [1200-minimum-absolute-difference](https://github.com/devang-dk/DSA/tree/master/1200-minimum-absolute-difference) |
@@ -161,4 +163,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/devang-dk/DSA/tree/master/0796-rotate-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/devang-dk/DSA/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/devang-dk/DSA/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/devang-dk/DSA/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
