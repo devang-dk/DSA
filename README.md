@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/devang-dk/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/devang-dk/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/devang-dk/DSA/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/devang-dk/DSA/tree/master/0496-next-greater-element-i) |
 | [1200-minimum-absolute-difference](https://github.com/devang-dk/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/devang-dk/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/devang-dk/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/devang-dk/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/devang-dk/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/devang-dk/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/devang-dk/DSA/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/devang-dk/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Tree
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/devang-dk/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/devang-dk/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/devang-dk/DSA/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/devang-dk/DSA/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
@@ -181,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/devang-dk/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/devang-dk/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
