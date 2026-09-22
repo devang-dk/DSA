@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/devang-dk/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/devang-dk/DSA/tree/master/0485-max-consecutive-ones) |
 | [1200-minimum-absolute-difference](https://github.com/devang-dk/DSA/tree/master/1200-minimum-absolute-difference) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/devang-dk/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/devang-dk/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devang-dk/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/devang-dk/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/devang-dk/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/devang-dk/DSA/tree/master/0202-happy-number) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/devang-dk/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1903-largest-odd-number-in-string](https://github.com/devang-dk/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/devang-dk/DSA/tree/master/0164-maximum-gap) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/devang-dk/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
