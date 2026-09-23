@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/devang-dk/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/devang-dk/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/devang-dk/DSA/tree/master/0496-next-greater-element-i) |
+| [0875-koko-eating-bananas](https://github.com/devang-dk/DSA/tree/master/0875-koko-eating-bananas) |
 | [1200-minimum-absolute-difference](https://github.com/devang-dk/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/devang-dk/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/devang-dk/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/devang-dk/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devang-dk/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/devang-dk/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0875-koko-eating-bananas](https://github.com/devang-dk/DSA/tree/master/0875-koko-eating-bananas) |
 ## Stack
 |  |
 | ------- |
