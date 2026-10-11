@@ -1,14 +1,27 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
-        HashMap<Character,Integer> map  = new HashMap<>();
-        HashMap<Character,Integer> map1  = new HashMap<>();
+        int[] ans = new int[52];
         for(int i=0;i<s.length();i++){
-            map.put(s.charAt(i), map.getOrDefault(s.charAt(i),0)+1);
+            char c = s.charAt(i);
+            if(c>='A' && c<='Z'){
+                ans[c-'A']++;
+            }else{
+                ans[26+c-'a']++;
+            }
         }
         for(int i=0;i<t.length();i++){
-            map1.put(t.charAt(i), map1.getOrDefault(t.charAt(i),0)+1);
+            char c = t.charAt(i);
+            if(c>='A' && c<='Z'){
+                ans[c-'A']--;
+            }else{
+                ans[26+c-'a']--;
+            }
         }
-
-        return map.equals(map1);
+        for(int count: ans){
+            if(count!=0){
+                return false;
+            }
+        }
+        return true;
     }
 }
