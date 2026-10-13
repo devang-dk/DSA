@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/devang-dk/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/devang-dk/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devang-dk/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/devang-dk/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/devang-dk/DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devang-dk/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/devang-dk/DSA/tree/master/0164-maximum-gap) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/devang-dk/DSA/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/devang-dk/DSA/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/devang-dk/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/devang-dk/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/devang-dk/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/devang-dk/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/devang-dk/DSA/tree/master/0242-valid-anagram) |
@@ -212,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/devang-dk/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/devang-dk/DSA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/devang-dk/DSA/tree/master/0560-subarray-sum-equals-k) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/devang-dk/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
