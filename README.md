@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/devang-dk/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/devang-dk/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/devang-dk/DSA/tree/master/0202-happy-number) |
+| [0319-bulb-switcher](https://github.com/devang-dk/DSA/tree/master/0319-bulb-switcher) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/devang-dk/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1903-largest-odd-number-in-string](https://github.com/devang-dk/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/devang-dk/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -220,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/devang-dk/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/devang-dk/DSA/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
